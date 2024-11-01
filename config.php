@@ -2,7 +2,7 @@
 
     $dbHost = 'Localhost';
     $dbUsername = 'root';
-    $dbPassword = 'gi04098662';
+    $dbPassword = 'xxxxxxxxxxx';
     $dbName = 'transporte_escolar';
 
     $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
